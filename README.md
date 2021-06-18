@@ -1,1 +1,25 @@
 # Java_Selenium_Example_Project
+- In this project, a Maven test project was created in Java language.
+- Automation project was created using Selenium and JUnit5 and Log4j libraries.
+- Classes were created according to the opened pages and functions were written in these classes for the operations on these pages.
+- In this project, the https://www.gittigidiyor.com site is opened first.
+- The presence of an element that should exist on this site is checked to verify that we are on the main page.
+- Go to the login page https://www.gittigidiyor.com/uye-girisi?s=1.
+- E-mail and password information is entered automatically.
+- Enter your own information instead of the email and password in the LoginPage class.
+- Afterwards, it is checked whether there is a "My Account" text and whether a login is made or not.
+- Opened cookies are closed by clicking the close button.
+- Click on the Search section, type "computer" and search.
+- Advertising and pop-up permissions on the opened searchPage page are turned off.
+- If the ad does not open, the code will not be broken. In this case, put the "close ads part" in the comment line and try again.
+- Then click on the second page button and the second page opens.
+- To check that we are on the second page, it is checked whether "2" is written on the second page button
+- A random product is selected from among 48 products.
+- If there is an advertisement in the opened productPage, the code is still broken.
+- In this case, remove the "close ads" part of the productPage from the comment line.
+- The price information in the ProductPage is retrieved and then the product is added to the cart.
+- Go to the basket page, where the price information is obtained and checked with the information on the other page.
+- The amount of product is doubled.
+- It is checked whether the product has been doubled by looking at the price change.
+- The product is deleted from the cart.
+- The presence of the shopping cart icon element is checked to see if the product has been deleted.
