@@ -1,0 +1,30 @@
+2021-06-18 02:01:37,693 ERROR [log] main_test() FAILED WITH CAUSE element click intercepted: Element <button type="button" id="add-to-basket" class="control-button gg-ui-button plr10 gg-ui-btn-default">...</button> is not clickable at point (1162, 686). Other element would receive the click: <div class="policy-alert-v2 show-policy">...</div>
+  (Session info: chrome=91.0.4472.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-1TLVT0PA', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.106, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\salik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61686}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 48ba08c10f9db4e67baa944ad5052a26 
+2021-06-18 02:31:19,206 ERROR [log] main_test() FAILED WITH CAUSE Could not login ==> expected: <true> but was: <false> 
+2021-06-18 02:34:19,339 ERROR [log] main_test() FAILED WITH CAUSE Could not login ==> expected: <true> but was: <false> 
+2021-06-18 02:36:36,040 ERROR [log] main_test() FAILED WITH CAUSE element click intercepted: Element <button type="button" id="add-to-basket" class="control-button gg-ui-button plr10 gg-ui-btn-default">...</button> is not clickable at point (1162, 686). Other element would receive the click: <div class="policy-alert-v2 show-policy">...</div>
+  (Session info: chrome=91.0.4472.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-1TLVT0PA', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.106, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\salik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57199}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ae9ad11677affd9afebb49de69d5907a 
+2021-06-18 02:39:42,032 ERROR [log] main_test() FAILED WITH CAUSE chrome not reachable
+  (Session info: chrome=91.0.4472.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-1TLVT0PA', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.106, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\salik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:59220}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6e4e4a4c186a2c3b04062125a62f6079 
+2021-06-18 02:45:18,092 ERROR [log] main_test() FAILED WITH CAUSE element click intercepted: Element <button type="button" id="add-to-basket" class="control-button gg-ui-button plr10 gg-ui-btn-default">...</button> is not clickable at point (1162, 686). Other element would receive the click: <div class="policy-alert-v2 show-policy">...</div>
+  (Session info: chrome=91.0.4472.106)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-1TLVT0PA', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '14.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.106, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\salik\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:50261}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 77a9d8ff8f03f4a38744161dd485dc48 
